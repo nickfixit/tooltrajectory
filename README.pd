@@ -1,0 +1,10 @@
+ Historical Analysis Tool
+
+This tool fetches data from Wikipedia about historical figures and visualizes key events in an interactive timeline.
+
+## Installation
+
+Install the package using pip:
+
+```sh
+pip install .

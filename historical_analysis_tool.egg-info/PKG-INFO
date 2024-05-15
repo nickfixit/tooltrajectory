@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: historical-analysis-tool
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: plotly

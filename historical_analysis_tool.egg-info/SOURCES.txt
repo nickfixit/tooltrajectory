@@ -1,0 +1,7 @@
+setup.py
+historical_analysis_tool.egg-info/PKG-INFO
+historical_analysis_tool.egg-info/SOURCES.txt
+historical_analysis_tool.egg-info/dependency_links.txt
+historical_analysis_tool.egg-info/entry_points.txt
+historical_analysis_tool.egg-info/requires.txt
+historical_analysis_tool.egg-info/top_level.txt
